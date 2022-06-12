@@ -1,8 +1,32 @@
 # Shell Scripting Notes
 
 ## **Table of Contents**
-
-[TOC]
+  - [Introduction](#introduction)
+    - [What’s a shell?](#whats-a-shell)
+    - [Factors that drove the evolution of shell:](#factors-that-drove-the-evolution-of-shell)
+    - [Why Shell Script?](#why-shell-script)
+  - [How to ?](#how-to-)
+    - [Create a script](#create-a-script)
+    - [Execute script](#execute-script)
+    - [configure script to run as command](#configure-script-to-run-as-command)
+  - [Shebang](#shebang)
+  - [Variables](#variables)
+    - [Introduction](#introduction-1)
+    - [Set value to variable](#set-value-to-variable)
+    - [Convention](#convention)
+    - [Access value of variable](#access-value-of-variable)
+  - [Command line arguments](#command-line-arguments)
+    - [Introduction](#introduction-2)
+    - [Different ways to process the arguments](#different-ways-to-process-the-arguments)
+  - [Read Inputs](#read-inputs)
+  - [Arithmetic Operations](#arithmetic-operations)
+  - [Flow Control](#flow-control)
+    - [conditional-logic](#conditional-logic)
+    - [Loops](#loops)
+  - [Additional Concepts](#additional-concepts)
+    - [Exit codes](#exit-codes)
+    - [Functions](#functions)
+  - [Best Practices](#best-practices)
 
 ## Introduction
 
